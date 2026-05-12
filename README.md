@@ -20,8 +20,7 @@ Please contact 	**zucksliu@cs.washington.edu** or **swang@cs.washington.edu** if
 - [] Release saliency generation code to visualize where OCTCube is looking.👀
 - [x] Prepare how to prepare the public datasets used in this study.
 - [x] Prepare the inference code and example OCT data volumes to try the classification model.
-- [x] Release the model on hugging face! Check [here](https://huggingface.co/zucksliu/OCTCubeM).
-- [x] Release the [OCTCube](https://drive.google.com/file/d/1NLodgy0UGeBHAj0DzFMFmsAtVGq9NHUo/view?usp=drive_link) model, [OCTCube-IR](https://drive.google.com/file/d/1K7IIQF-SPVYEEmiCaSGS9vFNKRkpYiUB/view?usp=sharing) model, and a [multi-tasking classification](https://drive.google.com/file/d/1EQZKcgiDqwb9NscKnAcCHLLRR6yt462d/view?usp=drive_link) model for 8 retinal diseases. See [model](https://drive.google.com/drive/folders/1VOtwTQmRv7uvPW_dV4PNgkwmio7lmxRw?usp=drive_link) page.
+- [x] Release the model on hugging face! Check [here](https://huggingface.co/zucksliu/OCTCubeM). We have the source OCTCube model, the bi-modal OCTCube-IR model, and a multi-tasking classification model for 8 retinal diseases.
 - [x] Release the code for pre-training, fine-tuning and multi-modal training.
 
 
